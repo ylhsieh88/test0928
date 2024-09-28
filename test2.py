@@ -6,3 +6,4 @@ print (a1*b1)
 b2 = 9
 print(b2/a2)
 print (b2/a1)
+d = 123
